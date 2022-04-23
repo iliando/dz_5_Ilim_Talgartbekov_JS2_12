@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    width: 100%;
+}
+#list {
+    margin: 0 auto;
+}
+
+button {
+    height: 50px;
+    width: 250px;
+
+}
